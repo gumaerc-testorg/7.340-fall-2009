@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 5e0f73df-7aec-caa9-9a2f-19999c75fbc8
 ---
@@ -49,7 +52,7 @@ Introduction
 Cellular correlates of memory and memory erasure: Long-term potentiation (LTP) and long-term depression (LTD) of synaptic strength
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "summary_2" >}}{{< /anchor >}}Memory reflects the storage of information. The discovery that synapses can undergo long-lasting changes in the strength of their transmission has fueled speculations that the brain potentially stores memory within synapses. Electrophysiological recordings from neurons have demonstrated that repeated high-frequency stimulation of neurons can lead to a long-lasting enhancement of synaptic transmission between neuronal cells. This phenomenon was named long-term potentiation (LTP) and was found to last for hours, days and even weeks. Hence, long-lasting potentiation of synaptic strength has been postulated to represent a cellular correlate of memory. Likewise, the opposite phenomenon has been observed. Low-frequency stimulation was found to lead to a long-lasting decrease in synaptic strength, named long-term depression (LTD). LTD may represent a cellular correlate of memory erasure. Together, the existence of LTP and LTD has inspired thousands of studies attempting to unveil the secrets of memory. This week, we will discuss LTP, and in future weeks we will consider both LTP and LTD. Bliss and Lomo demonstrated that synapses can undergo long-term potentiation, and Dunwiddie and Lych showed that Ca2+ ions play a crucial role for the induction of LTP.
+{{< anchor "summary_2" >}}{{< /anchor >}}Memory reflects the storage of information. The discovery that synapses can undergo long-lasting changes in the strength of their transmission has fueled speculations that the brain potentially stores memory within synapses. Electrophysiological recordings from neurons have demonstrated that repeated high-frequency stimulation of neurons can lead to a long-lasting enhancement of synaptic transmission between neuronal cells. This phenomenon was named long-term potentiation (LTP) and was found to last for hours, days and even weeks. Hence, long-lasting potentiation of synaptic strength has been postulated to represent a cellular correlate of memory. Likewise, the opposite phenomenon has been observed. Low-frequency stimulation was found to lead to a long-lasting decrease in synaptic strength, named long-term depression (LTD). LTD may represent a cellular correlate of memory erasure. Together, the existence of LTP and LTD has inspired thousands of studies attempting to unveil the secrets of memory. This week, we will discuss LTP, and in future weeks we will consider both LTP and LTD. Bliss and Lomo demonstrated that synapses can undergo long-term potentiation, and Dunwiddie and Lych showed that Ca{{< sup "2+" >}} ions play a crucial role for the induction of LTP.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +178,7 @@ Activity-induced synapse turnover
 Activity-regulated gene expression in neurons
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "summary_12" >}}{{< /anchor >}}Neurons are postmitotic cells that have lost the ability to proliferate. Neurons nevertheless respond to treatment with growth hormones by inducing transcription factors that in dividing cells trigger cell growth, mitosis and proliferation. A milestone in our understanding of activity-regulated gene expression in neurons was the discovery that rather than growth factors the _bona fide_ stimulator of neuronal transcription was membrane depolarization and Ca2+\-influx — hallmarks of synaptic electrical activity. These results prompted researchers in the early 1990s to screen for genes that respond to electrical activity. To date, many activity-regulated genes have been discovered. Their specific roles in synaptic plasticity and brain function are being investigated.
+{{< anchor "summary_12" >}}{{< /anchor >}}Neurons are postmitotic cells that have lost the ability to proliferate. Neurons nevertheless respond to treatment with growth hormones by inducing transcription factors that in dividing cells trigger cell growth, mitosis and proliferation. A milestone in our understanding of activity-regulated gene expression in neurons was the discovery that rather than growth factors the _bona fide_ stimulator of neuronal transcription was membrane depolarization and Ca{{< sup "2+" >}}\-influx — hallmarks of synaptic electrical activity. These results prompted researchers in the early 1990s to screen for genes that respond to electrical activity. To date, many activity-regulated genes have been discovered. Their specific roles in synaptic plasticity and brain function are being investigated.
 {{< tdclose >}}
 
 {{< trclose >}}
