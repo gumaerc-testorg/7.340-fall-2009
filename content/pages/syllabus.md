@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, goals, format, requirements, and the schedule lecture
+  topics and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
