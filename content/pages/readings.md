@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 01f53ec7-17f1-d2bf-8eaf-ff23c5931357
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_1)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_1" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ No readings
 
 Cellular correlates of memory and memory erasure: Long-term potentiation (LTP) and long-term depression (LTD) of synaptic strength
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_2)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_2" %}}
 
 
 {{< tdclose >}}
@@ -77,7 +82,7 @@ The authors show that the expression of LTP depends on extracellular calcium.
 
 The NMDA receptor, a gatekeeper for synaptic plasticity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_3)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_3" %}}
 
 
 {{< tdclose >}}
@@ -107,7 +112,7 @@ The authors demonstrate that NMDA receptor subunit composition is instrumental f
 
 Making silent synapses talk: Activation of the NMDA receptor recruits AMPA-type glutamate receptors to synaptic sites
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_4)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_4" %}}
 
 
 {{< tdclose >}}
@@ -137,7 +142,7 @@ Activation of silent synapses.
 
 AMPA receptor endocytosis as a key mechanism for regulating synaptic strength
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_5)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_5" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +172,7 @@ Reinsertion and Degradation of AMPA receptors.
 
 Metabotropic glutamate receptors (mGluRs) are potent mediators of long-term synaptic depression (LTD)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_6)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_6" %}}
 
 
 {{< tdclose >}}
@@ -197,7 +202,7 @@ Metabotropic glutamate receptor activation causes rapid redistribution of AMPA r
 
 Synaptic scaling as a mechanism to globally tune synapse strength
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_7)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_7" %}}
 
 
 {{< tdclose >}}
@@ -227,7 +232,7 @@ Arc/Arg3.1 mediates homeostatic synaptic scaling of AMPA receptors.
 
 Neurite outgrowth: constructing elaborate neuronal circuits
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_8)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_8" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ Postsynaptic CPG15 promotes synaptic maturation and presynaptic axon arbor elabo
 
 Synaptogenesis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_9)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_9" %}}
 
 
 {{< tdclose >}}
@@ -287,7 +292,7 @@ Rapid recruitment of NMDA receptor transport packets to nascent synapses.
 
 Field trip to the Eli and Edythe L. Institute and the Nedivi Lab
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_10)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_10" %}}
 
 
 {{< tdclose >}}
@@ -305,7 +310,7 @@ No readings
 
 Activity-induced synapse turnover
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_11)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_11" %}}
 
 
 {{< tdclose >}}
@@ -335,7 +340,7 @@ Activity-induced protocadherin arcadlin regulates dendritic spine number by trig
 
 Activity-regulated gene expression in neurons
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_12)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_12" %}}
 
 
 {{< tdclose >}}
@@ -365,7 +370,7 @@ Numerous candidate plasticity-related genes revealed by differential cDNA clonin
 
 Final assignment and closing remarks
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#summary_13)
+{{% resource_link 5e0f73df-7aec-caa9-9a2f-19999c75fbc8 "See the Lecture Summary" "#summary_13" %}}
 
 
 {{< tdclose >}}
