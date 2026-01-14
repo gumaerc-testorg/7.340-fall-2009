@@ -196,7 +196,7 @@ Synaptogenesis
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the {{% resource_link "4a3ac69c-e4e0-4ab9-bcda-84591f323166" "Eli and Edythe L. Broad Institute" %}} and the {{% resource_link "29981e0f-9098-459d-822c-8c017d0e0d44" "Nedivi Lab" %}}
+Field trip to the [Eli and Edythe L. Broad Institute](http://www.broadinstitute.org/) and the [Nedivi Lab](http://web.mit.edu/picower/faculty/nedivi.html)
 {{< tdclose >}}
 {{< tdopen >}}
  
